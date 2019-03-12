@@ -1,0 +1,11 @@
+[caps]
+platformName = "Android"
+deviceName = "OREO_API_26"
+app = "/Users/elessandra/Downloads/VodQA.apk"
+appPackage = "com.vodqareactnative"
+appActivity = "com.vodqareactnative.MainActivity"
+
+[appium_lib]
+server_url = "http://127.0.0.1:4723/wd/hub"
+sauce_username = ""
+sauce_access_key = ""
